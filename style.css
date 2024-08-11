@@ -434,4 +434,7 @@ label::after{
         height: 300px;
         padding: 80px 0px;
     }
+    .div4 {
+        font-size: 20px;
+    }
 }
