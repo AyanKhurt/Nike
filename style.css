@@ -419,4 +419,7 @@ label::after{
     .fa-solid {
         font-size: 16px;
     }
+    .div1 {
+        flex-direction: column;
+    }
 }
