@@ -385,7 +385,9 @@ label::after{
 .lastdiv>ul>li>a:hover {
     color: white;
 }
-
+select {
+    display: block;
+}
 @media (max-width: 1660px) {
 
 }
@@ -442,5 +444,8 @@ label::after{
     }
     .card1 p {
         font-size: 15px;
+    }
+    select {
+        display: none;
     }
 }
