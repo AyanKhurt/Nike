@@ -452,6 +452,11 @@ select {
         display: none;
     }
     .imgdiv1 {
-        width: 50%;
+        width: 33%;
+        padding: 0px;
+    }
+    .img2 {
+        width: 170px;
+        height: 200px;
     }
 }
