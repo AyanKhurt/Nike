@@ -455,8 +455,14 @@ select {
         width: 50%;
         padding: 0px;
     }
-    .img2 {
+    .imgdiv1 h2{
         width: 170px;
+    }
+    .imgdiv1 h3{
+        width: 170px;
+    }
+    .img2 {
+        width: 95%;
         height: 200px;
     }
 }
