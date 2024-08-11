@@ -465,4 +465,17 @@ select {
         width: 95%;
         height: 200px;
     }
+    .div8-1 p {
+        color: #000000;
+        font-size: 15px;
+    }
+    .footer {
+        padding: 25px 10px;
+    }
+    .grid2 ul {
+        gap: 10px;
+    }
+    .footer ul li {
+        font-size: 12px;
+    }
 }
