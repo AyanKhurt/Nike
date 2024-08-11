@@ -446,9 +446,12 @@ select {
         font-size: 2rem;
     }
     .card1 p {
-        font-size: 15px;
+        font-size: 18px;
     }
     select {
         display: none;
+    }
+    .imgdiv1 {
+        width: 50%;
     }
 }
