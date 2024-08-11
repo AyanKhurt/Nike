@@ -391,8 +391,28 @@ label::after{
 select {
     display: block;
 }
-@media (max-width: 1660px) {
-
+@media (min-width: 1399px and max-width: 1660px) {
+    .div1 ul li a {
+        font-size: 18px;
+    }
+    .div1 select {
+        font-size: 20px;
+    }
+    .div5 span {
+        font-size: 26px;
+    }
+    .headquarters h2 {
+        font-size: 32px;
+    }
+    .head-item h3 {
+        font-size: 35px;
+    }
+    .head-item p {
+        font-size: 25px;
+    }
+    .footer ul li {
+        font-size: 26px;
+    }
 }
 
 @media (max-width: 1399px) {
