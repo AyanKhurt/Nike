@@ -437,4 +437,7 @@ label::after{
     .div4 {
         font-size: 20px;
     }
+    .card1 h1 {
+        font-size: 2rem;
+    }
 }
