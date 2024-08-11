@@ -126,6 +126,9 @@ body {
     font-size: 4rem;
     font-family: "Rubik", sans-serif;
 }
+.card1 p {
+    font-size: 16px;
+}
 .h3 {
     padding: 10px 40px;
     font-family: Helvetica, sans-serif;
