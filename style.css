@@ -391,7 +391,7 @@ label::after{
 select {
     display: block;
 }
-@media (min-width: 1399px and max-width: 1660px) {
+@media (min-width: 1399px) and (max-width: 1660px) {
     .div1 ul li a {
         font-size: 18px;
     }
